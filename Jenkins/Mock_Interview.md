@@ -1,7 +1,3 @@
-Absolutely, Pravin bhai! Here's a set of 📘 **mock interview Q&A** (real-world, current-interview style) along with ✅ **Scripted vs Declarative Jenkinsfile examples** — all aligned with modern CI/CD pipelines and your DevOps profile.
-
----
-
 ## 📘 **Mock Jenkins Interview Questions & Answers**
 
 ---
@@ -156,9 +152,3 @@ node {
 
 ---
 
-✅ Want me to:
-- Bundle this into a **Jenkins Masterclass PDF**?
-- Add **Jenkins + Maven + Docker pipeline** with environment tags?
-- Build out a **multi-branch pipeline for GitFlow**?
-
-Let’s turn this into your **CI/CD playbook**, Pravin bhai!
