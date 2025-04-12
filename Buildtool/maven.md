@@ -245,13 +245,3 @@ pipeline {
 | `mvn dependency:tree` | Visualizes dependency graph |
 
 ---
-
-## 🧰 Bonus: GitHub → Jenkins Webhook Setup (CI Trigger)
-- In GitHub: Repo → Settings → Webhooks → Add `http://<jenkins-ip>:8080/github-webhook/`
-- In Jenkins: Enable GitHub hook trigger in project config
-
----
-
-Would you like a downloadable **lab PDF + GitHub template repo** or setup guide with screenshots?
-
-Or I can help you create a **multi-module Maven microservice CI/CD lab** with Spring Boot + Docker + Jenkins!
